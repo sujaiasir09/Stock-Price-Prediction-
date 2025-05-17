@@ -1,15 +1,17 @@
- Stock Price Prediction
 
-This project uses a simple Linear Regression model to predict stock prices.
+# Stock Price Prediction
 
- Tools Used:
- Python
- Jupyter Notebook
-Scikit-learn
-  pandas 
-  Matplotlib
+This project uses Linear Regression to predict stock prices based on historical data. It is a simple machine learning model that helps understand the basics of regression.
 
-How to Run:
-Open the `Predicting.ipynb` file in Jupyter Notebook or Google Colab.
+## Tools Used
+- Python
+- Jupyter Notebook
+- Scikit-learn
+- Pandas
+- Matplotlib
 
-Created by Sujai
+## How to Run
+1. Clone the repository or download the ZIP.
+2. Install the required libraries:
+   ```bash
+   pip install -r requirements.txt
